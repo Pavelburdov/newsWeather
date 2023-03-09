@@ -19,7 +19,8 @@ Device Orientation: Portrait
 
 Download all the files from this repo onto a local directory. Compile the program on Xcode.
 
-![output](https://user-images.githubusercontent.com/73440376/224035825-35b2c072-bb13-4795-85b4-ebb7c5a9d588.gif)
+![output4](https://user-images.githubusercontent.com/73440376/224088567-7c23c9fb-376d-4fab-81b7-ce65a4702e66.gif)
+
 
 
 
