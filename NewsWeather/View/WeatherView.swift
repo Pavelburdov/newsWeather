@@ -202,19 +202,19 @@ private extension WeatherView {
         labelNumber.textColor = Constant.LabelNumber.color
         labelNumber.text = Constant.LabelNumber.text
         labelNumber.font = Constant.LabelNumber.font
-        labelNumber.update(colors: [.red, .green], startPoint: CGPoint(x: 0.0, y: 0.5), endPoint: CGPoint(x: 1.0, y: 0.5))
+        labelNumber.update(colors: [.yellow, .systemYellow], startPoint: CGPoint(x: 0.0, y: 0.5), endPoint: CGPoint(x: 1.0, y: 0.5))
 
         labelDegree.textAlignment = .left
         labelDegree.textColor = Constant.LabelDegree.color
         labelDegree.text = Constant.LabelDegree.text
         labelDegree.font = Constant.LabelNumber.font
-        labelDegree.update(colors: [.red, .green], startPoint: CGPoint(x: 0.0, y: 0.5), endPoint: CGPoint(x: 1.0, y: 0.5))
+        labelDegree.update(colors: [.yellow, .systemYellow], startPoint: CGPoint(x: 0.0, y: 0.5), endPoint: CGPoint(x: 1.0, y: 0.5))
 
         labelCelcius.textAlignment = .left
         labelCelcius.textColor = Constant.LabelCelcius.color
         labelCelcius.text = Constant.LabelCelcius.text
         labelCelcius.font = Constant.LabelNumber.font
-        labelCelcius.update(colors: [.red, .green], startPoint: CGPoint(x: 0.0, y: 0.5), endPoint: CGPoint(x: 1.0, y: 0.5))
+        labelCelcius.update(colors: [.yellow, .systemYellow], startPoint: CGPoint(x: 0.0, y: 0.5), endPoint: CGPoint(x: 1.0, y: 0.5))
 
         labelCity.textAlignment = .center
         labelCity.textColor = Constant.LabelCity.color
